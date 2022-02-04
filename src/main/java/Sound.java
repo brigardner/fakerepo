@@ -1,5 +1,5 @@
 public class Sound {
     public void makeSound() {
-        System.out.println("Roar");
+        System.out.println("Beepr");
     }
 }
